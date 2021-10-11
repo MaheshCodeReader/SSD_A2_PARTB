@@ -64,7 +64,7 @@ class App extends Component {
         this.state = {
             PEOPLE: [{
                 name: "Raghu Reddy",
-                imageurl: "/images/people/6.jpg",
+                imageurl: "images/people/6.jpg",
                 job: "Associate Professor & Head",
                 areas: ['Model Driven Development',
                     'Software Requirements and Architecture',
@@ -82,7 +82,7 @@ class App extends Component {
             },
             {
                 name: 'Venkatesh Choppella',
-                imageurl: "/images/people/Venkatesh_Choppella.jpg",
+                imageurl: "images/people/Venkatesh_Choppella.jpg",
                 job: "Associate Professor",
                 areas: ['Programming Languages',
                     'S/W Architectures',
@@ -99,7 +99,7 @@ class App extends Component {
             },
             {
                 name: 'Vasudeva Varma',
-                imageurl: "/images/people/DSC_0320.jpg",
+                imageurl: "images/people/DSC_0320.jpg",
                 job: "Professor & Dean (Research)",
                 areas: ['Information Retrieval',
                     'Social Media Analysis',
@@ -117,7 +117,7 @@ class App extends Component {
             },
             {
                 name: 'Ramesh Loganathan',
-                imageurl: "/images/people/Ramesh.jpg",
+                imageurl: "images/people/Ramesh.jpg",
                 job: "PROFESSOR CO-INNOVATION",
                 areas: ['Innovation and Processes for Applied Research'],
                 about: [
@@ -130,7 +130,7 @@ class App extends Component {
             },
             {
                 name: 'Kesav V. Nori',
-                imageurl: "/images/people/nori.jpg",
+                imageurl: "images/people/nori.jpg",
                 job: "Distinguished Professor",
                 areas: ['Computer Science Education',
                     'Software Archtiecture',
@@ -145,7 +145,7 @@ class App extends Component {
             },
             {
                 name: 'Viswanath Kasturi',
-                imageurl: "/images/people/Viswanath_Kasturi_bGLSrXt.jpg",
+                imageurl: "images/people/Viswanath_Kasturi_bGLSrXt.jpg",
                 job: "Research Professor of Eminence",
                 areas: ['Mathematical Computer Science', 'Pedagogical issues'],
                 about: [""],
@@ -250,7 +250,7 @@ const NEWS = [
 const PEOPLE = [
     {
         name: "Raghu Reddy",
-        imageurl: "/images/people/6.jpg",
+        imageurl: "images/people/6.jpg",
         job: "Associate Professor & Head",
         areas: ['Model Driven Development',
             'Software Requirements and Architecture',
@@ -268,7 +268,7 @@ const PEOPLE = [
     },
     {
         name: 'Venkatesh Choppella',
-        imageurl: "/images/people/Venkatesh_Choppella.jpg",
+        imageurl: "images/people/Venkatesh_Choppella.jpg",
         job: "Associate Professor",
         areas: ['Programming Languages',
             'S/W Architectures',
@@ -285,7 +285,7 @@ const PEOPLE = [
     },
     {
         name: 'Vasudeva Varma',
-        imageurl: "/images/people/DSC_0320.jpg",
+        imageurl: "images/people/DSC_0320.jpg",
         job: "Professor & Dean (Research)",
         areas: ['Information Retrieval',
             'Social Media Analysis',
@@ -303,7 +303,7 @@ const PEOPLE = [
     },
     {
         name: 'Ramesh Loganathan',
-        imageurl: "/images/people/Ramesh.jpg",
+        imageurl: "images/people/Ramesh.jpg",
         job: "PROFESSOR CO-INNOVATION",
         areas: ['Innovation and Processes for Applied Research'],
         about: [
@@ -316,7 +316,7 @@ const PEOPLE = [
     },
     {
         name: 'Kesav V. Nori',
-        imageurl: "/images/people/nori.jpg",
+        imageurl: "images/people/nori.jpg",
         job: "Distinguished Professor",
         areas: ['Computer Science Education',
             'Software Archtiecture',
@@ -331,7 +331,7 @@ const PEOPLE = [
     },
     {
         name: 'Viswanath Kasturi',
-        imageurl: "/images/people/Viswanath_Kasturi_bGLSrXt.jpg",
+        imageurl: "images/people/Viswanath_Kasturi_bGLSrXt.jpg",
         job: "Research Professor of Eminence",
         areas: ['Mathematical Computer Science', 'Pedagogical issues'],
         about: [""],

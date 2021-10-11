@@ -32,23 +32,23 @@ const Component = () => {
   const slides = [
     {
         img:
-          "/images/poster1.png",
+          "images/poster1.png",
       },
     {
         img:
-          "/images/poster2.png",
+          "images/poster2.png",
       },
     {
       img:
-        "/images/poster3.jpg",
+        "images/poster3.jpg",
     },
     {
       img:
-        "/images/poster4.jpeg",
+        "images/poster4.jpeg",
     },
     {
       img:
-        "/images/poster5.jpg",
+        "images/poster5.jpg",
     },
     
     

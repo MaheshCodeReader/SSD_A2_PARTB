@@ -18,7 +18,7 @@ function Research() {
           // w="full"
           // h={fu}
           // fit="cover"
-          src={"/images/research_areas.jpg"}
+          src={"images/research_areas.jpg"}
           alt="avatar"
       />
         {/* <Container

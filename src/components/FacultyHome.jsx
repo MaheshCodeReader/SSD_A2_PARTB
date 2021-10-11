@@ -40,7 +40,7 @@ export default function Faculty() {
 const FACULTIES = [
   {
     name: 'Raghu Reddy',
-    imageurl: "/images/people/6.jpg",
+    imageurl: "images/people/6.jpg",
     job: "Associate Professor & Head",
     areas: ['Model Driven Development',
       'Software Requirements and Architecture',
@@ -50,7 +50,7 @@ const FACULTIES = [
   },
   {
     name: 'Venkatesh Choppella',
-    imageurl: "/images/people/Venkatesh_Choppella.jpg",
+    imageurl: "images/people/Venkatesh_Choppella.jpg",
     job: "Associate Professor",
     areas: ['Programming Languages',
       'S/W Architectures',
@@ -59,7 +59,7 @@ const FACULTIES = [
   },
   {
     name: 'Vasudeva Varma',
-    imageurl: "/images/people/DSC_0320.jpg",
+    imageurl: "images/people/DSC_0320.jpg",
     job: "Professor & Dean (Research)",
     areas: ['Information Retrieval',
      'Social Media Analysis',
@@ -68,13 +68,13 @@ const FACULTIES = [
   },
   {
     name: 'Ramesh Loganathan',
-    imageurl: "/images/people/Ramesh.jpg",
+    imageurl: "images/people/Ramesh.jpg",
     job: "PROFESSOR CO-INNOVATION",
     areas: ['Innovation and Processes for Applied Research'],
   },
   {
     name: 'Kesav V. Nori',
-    imageurl: "/images/people/nori.jpg",
+    imageurl: "images/people/nori.jpg",
     job: "Distinguished Professor",
     areas: ['Computer Science Education',
      'Software Archtiecture',
@@ -83,7 +83,7 @@ const FACULTIES = [
   },
   {
     name: 'Viswanath Kasturi',
-    imageurl: "/images/people/Viswanath_Kasturi_bGLSrXt.jpg",
+    imageurl: "images/people/Viswanath_Kasturi_bGLSrXt.jpg",
     job: "Research Professor of Eminence",
     areas: ['Mathematical Computer Science', 'Pedagogical issues'],
   },
