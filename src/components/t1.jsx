@@ -64,6 +64,7 @@ export default function WithSubnavigation() {
                         fontFamily={'heading'}
                         color={useColorModeValue('gray.800', 'white')}>
                         <Image
+                        alt="best image"
                         src="images/logo.jpg"
                         width="50px">
 

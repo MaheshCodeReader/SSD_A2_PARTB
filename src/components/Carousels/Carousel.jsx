@@ -95,7 +95,7 @@ const Component = () => {
               </Text>
               <Image 
                 src={slide.img} 
-                alt={slide.img} 
+                alt="best image" 
                 objectFit="cover" 
                 boxSize="full" 
                 backgroundSize="cover" />
